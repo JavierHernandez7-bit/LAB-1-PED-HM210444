@@ -1,0 +1,20 @@
+C:\Users\Postgrados\Documents\HM210444\LAB 1\ejemplo2Guia1PED\ejemplo2Guia1PED\bin\Debug\ejemplo2Guia1PED.exe.config
+C:\Users\Postgrados\Documents\HM210444\LAB 1\ejemplo2Guia1PED\ejemplo2Guia1PED\bin\Debug\ejemplo2Guia1PED.exe
+C:\Users\Postgrados\Documents\HM210444\LAB 1\ejemplo2Guia1PED\ejemplo2Guia1PED\bin\Debug\ejemplo2Guia1PED.pdb
+C:\Users\Postgrados\Documents\HM210444\LAB 1\ejemplo2Guia1PED\ejemplo2Guia1PED\obj\Debug\ejemplo2Guia1PED.csproj.AssemblyReference.cache
+C:\Users\Postgrados\Documents\HM210444\LAB 1\ejemplo2Guia1PED\ejemplo2Guia1PED\obj\Debug\ejemplo2Guia1PED.Properties.Resources.resources
+C:\Users\Postgrados\Documents\HM210444\LAB 1\ejemplo2Guia1PED\ejemplo2Guia1PED\obj\Debug\ejemplo2Guia1PED.csproj.GenerateResource.cache
+C:\Users\Postgrados\Documents\HM210444\LAB 1\ejemplo2Guia1PED\ejemplo2Guia1PED\obj\Debug\ejemplo2Guia1PED.csproj.CoreCompileInputs.cache
+C:\Users\Postgrados\Documents\HM210444\LAB 1\ejemplo2Guia1PED\ejemplo2Guia1PED\obj\Debug\ejemplo2Guia1PED.exe
+C:\Users\Postgrados\Documents\HM210444\LAB 1\ejemplo2Guia1PED\ejemplo2Guia1PED\obj\Debug\ejemplo2Guia1PED.pdb
+D:\UDB-LOCAL 03 (2022)\LAB 1\ejemplo2Guia1PED\ejemplo2Guia1PED\bin\Debug\ejemplo2Guia1PED.exe.config
+D:\UDB-LOCAL 03 (2022)\LAB 1\ejemplo2Guia1PED\ejemplo2Guia1PED\bin\Debug\ejemplo2Guia1PED.exe
+D:\UDB-LOCAL 03 (2022)\LAB 1\ejemplo2Guia1PED\ejemplo2Guia1PED\bin\Debug\ejemplo2Guia1PED.pdb
+D:\UDB-LOCAL 03 (2022)\LAB 1\ejemplo2Guia1PED\ejemplo2Guia1PED\obj\Debug\ejemplo2Guia1PED.csproj.AssemblyReference.cache
+D:\UDB-LOCAL 03 (2022)\LAB 1\ejemplo2Guia1PED\ejemplo2Guia1PED\obj\Debug\ejemplo2Guia1PED.csproj.SuggestedBindingRedirects.cache
+D:\UDB-LOCAL 03 (2022)\LAB 1\ejemplo2Guia1PED\ejemplo2Guia1PED\obj\Debug\ejemplo2Guia1PED.Form1.resources
+D:\UDB-LOCAL 03 (2022)\LAB 1\ejemplo2Guia1PED\ejemplo2Guia1PED\obj\Debug\ejemplo2Guia1PED.Properties.Resources.resources
+D:\UDB-LOCAL 03 (2022)\LAB 1\ejemplo2Guia1PED\ejemplo2Guia1PED\obj\Debug\ejemplo2Guia1PED.csproj.GenerateResource.cache
+D:\UDB-LOCAL 03 (2022)\LAB 1\ejemplo2Guia1PED\ejemplo2Guia1PED\obj\Debug\ejemplo2Guia1PED.csproj.CoreCompileInputs.cache
+D:\UDB-LOCAL 03 (2022)\LAB 1\ejemplo2Guia1PED\ejemplo2Guia1PED\obj\Debug\ejemplo2Guia1PED.exe
+D:\UDB-LOCAL 03 (2022)\LAB 1\ejemplo2Guia1PED\ejemplo2Guia1PED\obj\Debug\ejemplo2Guia1PED.pdb
